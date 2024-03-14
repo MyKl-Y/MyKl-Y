@@ -40,7 +40,7 @@ const mykl = {
         devOps: ["AWS", "Docker"],
         misc: ["Firebase", "KiCad", "QMK"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Web", "Mobile"],
     currentFocus: ["AI", "ML", "Cloud", "Robotics", "Quantum", "Data Science"],
     funFact: "This is a fun fact"
 };
