@@ -19,21 +19,29 @@ npx anmol
 ```javascript
 const mykl = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "C++"],
+    code: ["JavaScript/TypeScript", "Python", "Java", "C++/C", "Kotlin"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
+        frontEnd: {
+            js: ["React", "Angular"],
+            java: ["Spring", "JavaFX"],
+        },
         backEnd: {
             js: ["Node", "Express"],
+            py: ["Django", "Flask"],
         },
         mobileApp: {
-            native: ["Android Development"]
+            native: ["Android Development"],
         },
-        devOps: ["AWS", "Docker",],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase"]
+        databases: {
+            nosql: ["mongo"],
+            sql: ["MySql"],
+        },
+        devOps: ["AWS", "Docker"],
+        misc: ["Firebase", "KiCad", "QMK"],
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "AI, ML, Cloud, Robotics, Quantum",
+    currentFocus: ["AI", "ML", "Cloud", "Robotics", "Quantum", "Data Science"],
     funFact: "This is a fun fact"
 };
 ```
