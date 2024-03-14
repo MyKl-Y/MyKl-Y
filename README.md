@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Michael! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>ECE Undergraduate Student at <a href="https://www.gatech.edu/">OneOrigin</em></p>
+<p><em>ECE Undergraduate Student at <a href="https://www.gatech.edu/">Gatech</em></p>
 
 [![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-yim-olmos/)](https://www.linkedin.com/in/michael-yim-olmos/)
 ![GitHub followers](https://img.shields.io/github/followers/MyKl-Y?label=Follow&style=social)
