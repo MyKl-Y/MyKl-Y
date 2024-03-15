@@ -48,13 +48,15 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%201%20min-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 117.8 kB Used in GitHub's Storage 
+> 📦 120.9 kB Used in GitHub's Storage 
  > 
 > 🏆 67 Contributions in the Year 2024
  > 
@@ -64,6 +66,46 @@ const mykl = {
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+🌆 Daytime                32 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+🌃 Evening                84 commits          ███████████░░░░░░░░░░░░░░   45.90 % 
+🌙 Night                  58 commits          ████████░░░░░░░░░░░░░░░░░   31.69 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Tuesday                  20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Wednesday                41 commits          ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+Thursday                 39 commits          █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+Friday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Saturday                 23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Sunday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+Markdown                 1 hr 22 mins        ████████████████████████░   96.29 % 
+Java                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+Obsidian                 1 hr 22 mins        ████████████████████████░   96.29 % 
+Android Studio           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+
+💻 Operating System: 
+Mac                      1 hr 25 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -77,7 +119,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/03/2024 04:06:03 UTC
+ Last Updated on 15/03/2024 04:52:20 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
