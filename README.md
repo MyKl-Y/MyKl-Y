@@ -48,9 +48,7 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2014%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -91,20 +89,20 @@ Sunday                   33 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     8 hrs 53 mins       ████████████████░░░░░░░░░   65.27 % 
-Markdown                 3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-XML                      1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Groovy                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Java                     8 hrs 36 mins       █████████████████░░░░░░░░   68.79 % 
+Markdown                 2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+XML                      1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Groovy                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Android Studio           6 hrs 13 mins       ███████████░░░░░░░░░░░░░░   45.67 % 
-Intellijidea             3 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-Obsidian                 3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Android Studio           5 hrs 56 mins       ████████████░░░░░░░░░░░░░   47.44 % 
+Intellijidea             3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.44 % 
+Obsidian                 2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 💻 Operating System: 
-Mac                      13 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +118,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2024 00:13:39 UTC
+ Last Updated on 12/04/2024 00:13:04 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
