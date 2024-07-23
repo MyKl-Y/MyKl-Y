@@ -48,7 +48,7 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,8 +57,6 @@ const mykl = {
 **🐱 My GitHub Data** 
 
 > 📦 267.5 kB Used in GitHub's Storage 
- > 
-> 🏆 383 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,18 +91,18 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 6 hrs 43 mins       █████████████░░░░░░░░░░░░   50.14 % 
-JavaScript               3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-CSS                      1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-TypeScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Markdown                 6 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   41.72 % 
+JavaScript               3 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+Vue.js                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+TypeScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+CSS                      1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 
 🔥 Editors: 
-Obsidian                 6 hrs 43 mins       █████████████░░░░░░░░░░░░   50.12 % 
-VS Code                  6 hrs 41 mins       ████████████░░░░░░░░░░░░░   49.88 % 
+VS Code                  9 hrs 24 mins       ███████████████░░░░░░░░░░   58.29 % 
+Obsidian                 6 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   41.71 % 
 
 💻 Operating System: 
-Mac                      13 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +118,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2024 00:15:19 UTC
+ Last Updated on 23/07/2024 00:14:57 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
