@@ -48,7 +48,7 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -57,8 +57,6 @@ const mykl = {
 **🐱 My GitHub Data** 
 
 > 📦 278.0 kB Used in GitHub's Storage 
- > 
-> 🏆 503 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,18 +91,18 @@ Sunday                   99 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-HTML                     12 hrs 31 mins      █████████████████░░░░░░░░   67.91 % 
-Python                   2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-CSS                      2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-JavaScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+HTML                     11 hrs 22 mins      █████████████████░░░░░░░░   68.37 % 
+Python                   3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+CSS                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 21 mins      █████████████████████████   99.52 % 
-Obsidian                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+VS Code                  16 hrs 32 mins      █████████████████████████   99.47 % 
+Obsidian                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 Operating System: 
-Mac                      18 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +118,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2024 00:15:33 UTC
+ Last Updated on 20/08/2024 00:14:56 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
