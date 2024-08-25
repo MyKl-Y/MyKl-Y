@@ -48,7 +48,7 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -93,18 +93,18 @@ Sunday                   99 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-HTML                     8 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   40.27 % 
-Markdown                 5 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-Python                   3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-JavaScript               3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+HTML                     5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.01 % 
+Markdown                 5 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.19 % 
+JavaScript               3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Python                   2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 29 mins      ███████████████████░░░░░░   74.34 % 
-Obsidian                 5 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+VS Code                  11 hrs 16 mins      █████████████████░░░░░░░░   67.81 % 
+Obsidian                 5 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.19 % 
 
 💻 Operating System: 
-Mac                      20 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +120,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2024 00:14:31 UTC
+ Last Updated on 25/08/2024 00:16:30 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
