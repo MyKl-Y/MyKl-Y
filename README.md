@@ -58,8 +58,6 @@ const mykl = {
 
 > 📦 320.7 kB Used in GitHub's Storage 
  > 
-> 🏆 581 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -93,16 +91,15 @@ Sunday                   105 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 2 hrs 42 mins       ████████████████░░░░░░░░░   65.86 % 
-Python                   1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Markdown                 1 hr 32 mins        ███████████████████████░░   90.29 % 
+HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 42 mins       ████████████████░░░░░░░░░   65.86 % 
-VS Code                  1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   34.14 % 
+Obsidian                 1 hr 32 mins        ███████████████████████░░   90.29 % 
+VS Code                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 
 💻 Operating System: 
-Mac                      4 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +115,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2024 00:16:34 UTC
+ Last Updated on 11/10/2024 00:16:18 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
