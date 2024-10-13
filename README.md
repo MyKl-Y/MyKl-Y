@@ -93,15 +93,15 @@ Sunday                   105 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 1 hr 24 mins        ██████████████████████░░░   89.38 % 
-HTML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Markdown                 23 mins             ████████████████████████░   96.15 % 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🔥 Editors: 
-Obsidian                 1 hr 24 mins        ██████████████████████░░░   89.38 % 
-VS Code                  9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Obsidian                 23 mins             ████████████████████████░   96.15 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 💻 Operating System: 
-Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
+Mac                      24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -117,7 +117,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2024 00:16:05 UTC
+ Last Updated on 13/10/2024 00:18:04 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
