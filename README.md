@@ -48,7 +48,7 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,8 +57,6 @@ const mykl = {
 **🐱 My GitHub Data** 
 
 > 📦 320.8 kB Used in GitHub's Storage 
- > 
-> 🏆 585 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,16 +91,17 @@ Sunday                   105 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 hrs 51 mins       ██████████████████░░░░░░░   70.10 % 
-Markdown                 1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   4 hrs 40 mins       ███████████████████░░░░░░   76.32 % 
+Markdown                 55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+HTML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 51 mins       ██████████████████░░░░░░░   70.10 % 
-Obsidian                 1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+VS Code                  5 hrs 11 mins       █████████████████████░░░░   84.85 % 
+Obsidian                 55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
 
 💻 Operating System: 
-Mac                      4 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +117,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2024 00:16:27 UTC
+ Last Updated on 20/10/2024 00:18:19 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
