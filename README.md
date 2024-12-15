@@ -48,7 +48,7 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,8 +57,6 @@ const mykl = {
 **🐱 My GitHub Data** 
 
 > 📦 321.0 kB Used in GitHub's Storage 
- > 
-> 🏆 608 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,18 +91,16 @@ Sunday                   106 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   1 hr 31 mins        ██████████████░░░░░░░░░░░   57.29 % 
-Bash                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Python                   45 mins             ██████████████████████░░░   86.41 % 
+Markdown                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  52 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████░░░░░░░░   67.40 % 
-Mac                      52 mins             ████████░░░░░░░░░░░░░░░░░   32.60 % 
+Mac                      52 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +116,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/12/2024 00:17:56 UTC
+ Last Updated on 15/12/2024 00:20:17 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
