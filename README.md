@@ -58,6 +58,8 @@ const mykl = {
 
 > 📦 321.0 kB Used in GitHub's Storage 
  > 
+> 🏆 608 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -116,7 +118,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2024 00:20:17 UTC
+ Last Updated on 16/12/2024 00:19:36 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
