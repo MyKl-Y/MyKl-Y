@@ -1,5 +1,5 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Michael!</h2>
-<p><em>ECE Undergraduate Student at <a href="https://www.gatech.edu/">Gatech</em></p>
+<p><em>CS Undergraduate Student at <a href="https://www.gatech.edu/">Gatech</em></p>
 
 [![Linkedin: Michael-Yim-Olmos](https://img.shields.io/badge/-mykl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-yim-olmos/)](https://www.linkedin.com/in/michael-yim-olmos/)
 ![GitHub followers](https://img.shields.io/github/followers/MyKl-Y?label=Follow&style=social)
