@@ -48,7 +48,7 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,17 +93,17 @@ Sunday                   118 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Dart                     7 hrs 27 mins       ████████████░░░░░░░░░░░░░   48.91 % 
-Go                       2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Markdown                 2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-TypeScript               1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Python                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Dart                     4 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   37.31 % 
+Go                       2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Markdown                 2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+TypeScript               1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Python                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 15 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 52 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +119,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2025 00:19:06 UTC
+ Last Updated on 06/01/2025 00:18:01 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
