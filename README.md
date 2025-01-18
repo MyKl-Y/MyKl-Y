@@ -58,8 +58,6 @@ const mykl = {
 
 > 📦 321.8 kB Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 27 Public Repositories 
@@ -93,14 +91,13 @@ Sunday                   118 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TeX                      17 mins             ████████████████░░░░░░░░░   64.72 % 
-Rust                     9 mins              █████████░░░░░░░░░░░░░░░░   35.28 % 
+Rust                     9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,7 +113,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2025 00:16:47 UTC
+ Last Updated on 18/01/2025 00:16:09 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
