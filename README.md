@@ -48,7 +48,7 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,6 +57,8 @@ const mykl = {
 **🐱 My GitHub Data** 
 
 > 📦 322.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 11 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,15 +93,17 @@ Sunday                   120 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Rust                     9 mins              ████████████████████░░░░░   78.22 % 
-Assembly                 2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Rust                     9 mins              █████████████░░░░░░░░░░░░   50.83 % 
+Assembly                 5 mins              ████████░░░░░░░░░░░░░░░░░   30.63 % 
+Other                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -115,7 +119,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/01/2025 00:16:54 UTC
+ Last Updated on 22/01/2025 00:17:05 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
