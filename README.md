@@ -48,7 +48,7 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,16 +93,17 @@ Sunday                   121 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 hrs 44 mins       ████████████████████░░░░░   81.76 % 
-TeX                      29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+C                        36 mins             ██████████████░░░░░░░░░░░   54.94 % 
+TeX                      29 mins             ███████████░░░░░░░░░░░░░░   44.63 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  36 mins             ██████████████░░░░░░░░░░░   55.21 % 
+Mac                      29 mins             ███████████░░░░░░░░░░░░░░   44.79 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +119,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2025 00:14:36 UTC
+ Last Updated on 09/03/2025 00:16:27 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
