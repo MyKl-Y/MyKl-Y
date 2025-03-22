@@ -18,32 +18,74 @@ npx anmol
 
 ```javascript
 const mykl = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript/TypeScript", "Python", "Java", "C++/C", "Kotlin"],
-    askMeAbout: ["web dev", "tech", "app dev"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Angular"],
-            java: ["Spring", "JavaFX"],
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            py: ["Django", "Flask"],
-        },
-        mobileApp: {
-            native: ["Android Development"],
-        },
-        databases: {
-            nosql: ["mongo"],
-            sql: ["MySql"],
-        },
-        devOps: ["AWS", "Docker"],
-        misc: ["Firebase", "KiCad", "QMK"],
+  pronouns: "He | Him",
+  code: [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "Java",
+    "Kotlin",
+    "Dart",
+    "C++",
+    "C",
+    "Assembly",
+    "Verilog",
+    "VHDL",
+    "Rust",
+    "Go",
+    "SQL",
+    "R",
+    "MATLAB",
+    "Bash",
+    "Shell"
+  ],
+  askMeAbout: [
+    "Computer Architecture",
+    "RISC-V",
+    "Tech",
+    "Machine Learning",
+    "Embedded Systems",
+    "Data Science",
+    "Music"
+  ],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Vue", "Next"],
+      java: ["Spring"],
+      dart: ["Flutter"],
+      styling: ["Tailwind"]
     },
-    architecture: ["Web", "Mobile", "Game"],
-    currentFocus: ["AI", "ML", "Cloud", "Robotics", "Quantum", "Data Science"],
-    funFact: "This is a fun fact"
+    backEnd: {
+      js: ["Node", "Express"],
+      py: ["Django", "Flask", "FastAPI"],
+      baas: ["Firebase"]
+    },
+    mobileApp: {
+      native: ["Android"],
+      crossPlatform: ["Flutter"]
+    },
+    databases: {
+      nosql: ["mongo", "Firebase/Firestore"],
+      sql: ["MySql", "PostgreSQL"]
+    },
+    cloud: {
+      providers: ["AWS", "GCloud", "Azure"]
+    },
+    devOps: ["AWS", "Docker", "Kubernetes", "Grafana", "Prometheus"],
+    misc: ["KiCad", "QMK", "Office 365", "Linux"]
+  },
+  architecture: ["Web", "Mobile", "Game", "Embedded"],
+  currentFocus: [
+    "ML",
+    "Computer Architecture",
+    "Robotics",
+    "Hardware",
+    "Data Science",
+    "HPC"
+  ],
+  funFact: "Enjoys building innovative hardware/software co-design projects and exploring robotics."
 };
+
 ```
 
 ---
