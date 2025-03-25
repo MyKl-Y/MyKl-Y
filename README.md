@@ -90,7 +90,7 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -100,7 +100,7 @@ const mykl = {
 
 > 📦 492.9 kB Used in GitHub's Storage 
  > 
-> 🏆 84 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -135,19 +135,19 @@ Sunday                   121 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   10 hrs 11 mins      ████████████░░░░░░░░░░░░░   49.04 % 
-C                        4 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-Markdown                 3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Haskell                  1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Python                   10 hrs 11 mins      ████████████░░░░░░░░░░░░░   46.99 % 
+C                        4 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+Markdown                 4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Haskell                  1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 36 mins      █████████████████████░░░░   84.73 % 
-Obsidian                 3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+VS Code                  17 hrs 36 mins      ████████████████████░░░░░   81.18 % 
+Obsidian                 4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
 
 💻 Operating System: 
-Mac                      15 hrs 51 mins      ███████████████████░░░░░░   76.36 % 
-Windows                  4 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Mac                      16 hrs 46 mins      ███████████████████░░░░░░   77.35 % 
+Windows                  4 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
 ```
 
 **I Mostly Code in Python** 
@@ -163,7 +163,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/03/2025 00:19:09 UTC
+ Last Updated on 25/03/2025 00:18:37 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
