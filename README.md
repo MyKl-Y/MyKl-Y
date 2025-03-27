@@ -20,33 +20,15 @@ npx anmol
 const mykl = {
   pronouns: "He | Him",
   code: [
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "Java",
-    "Kotlin",
+    "Python", "R", "MATLAB",
+    "Java", "Kotlin",
     "Dart",
-    "C++",
-    "C",
+    "JavaScript", "TypeScript",
+    "C++", "C", "Go", "Rust",
     "Assembly",
-    "Verilog",
-    "VHDL",
-    "Rust",
-    "Go",
+    "Verilog", "VHDL",
     "SQL",
-    "R",
-    "MATLAB",
-    "Bash",
-    "Shell"
-  ],
-  askMeAbout: [
-    "Computer Architecture",
-    "RISC-V",
-    "Tech",
-    "Machine Learning",
-    "Embedded Systems",
-    "Data Science",
-    "Music"
+    "Bash", "Shell"
   ],
   technologies: {
     frontEnd: {
@@ -76,12 +58,7 @@ const mykl = {
   },
   architecture: ["Web", "Mobile", "Game", "Embedded"],
   currentFocus: [
-    "ML",
-    "Computer Architecture",
-    "Robotics",
-    "Hardware",
-    "Data Science",
-    "HPC"
+    "ML", "Processors", "Embedded Systems", "Computer Architecture", "Robotics", "RISC-V", "Hardware", "Data Science", "HPC"
   ],
   funFact: "Enjoys building innovative hardware/software co-design projects and exploring robotics."
 };
