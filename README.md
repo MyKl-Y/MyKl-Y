@@ -67,6 +67,8 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2041%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.1%20million%20lines%20of%20code-blue)
@@ -110,17 +112,17 @@ Sunday                   124 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C++                      50 mins             ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-Markdown                 42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
-HTML                     35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-V                        18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+C++                      50 mins             █████████████░░░░░░░░░░░░   53.22 % 
+Markdown                 42 mins             ███████████░░░░░░░░░░░░░░   44.12 % 
+Java Properties          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -136,7 +138,7 @@ VHDL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2025 00:18:40 UTC
+ Last Updated on 04/05/2025 00:21:54 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
