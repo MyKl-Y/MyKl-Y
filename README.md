@@ -112,15 +112,13 @@ Sunday                   124 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C++                      32 mins             ████████████████████████░   95.50 % 
-Git                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+C++                      32 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+VS Code                  32 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.00 % 
+Mac                      32 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -136,7 +134,7 @@ VHDL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2025 00:19:28 UTC
+ Last Updated on 08/05/2025 00:19:36 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
