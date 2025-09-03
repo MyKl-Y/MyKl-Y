@@ -77,6 +77,8 @@ const mykl = {
 
 > 📦 536.7 kB Used in GitHub's Storage 
  > 
+> 🏆 207 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 30 Public Repositories 
@@ -110,13 +112,13 @@ Sunday                   124 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 3 mins              █████████████████████████   100.00 % 
+Markdown                 52 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 3 mins              █████████████████████████   100.00 % 
+Obsidian                 52 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+Linux                    52 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -132,7 +134,7 @@ VHDL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2025 00:19:22 UTC
+ Last Updated on 03/09/2025 00:18:00 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
