@@ -67,8 +67,6 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%202%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.1%20million%20lines%20of%20code-blue)
@@ -85,45 +83,6 @@ const mykl = {
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-🌆 Daytime                207 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-🌃 Evening                454 commits         ███████████░░░░░░░░░░░░░░   43.86 % 
-🌙 Night                  332 commits         ████████░░░░░░░░░░░░░░░░░   32.08 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Tuesday                  108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Wednesday                165 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Thursday                 190 commits         █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-Friday                   176 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Saturday                 182 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Sunday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-Markdown                 1 hr 18 mins        █████████████████████░░░░   84.05 % 
-C++                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-
-🔥 Editors: 
-Obsidian                 1 hr 18 mins        █████████████████████░░░░   84.05 % 
-VS Code                  14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-
-💻 Operating System: 
-Linux                    1 hr 18 mins        █████████████████████░░░░   84.05 % 
-Windows                  14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -137,7 +96,7 @@ VHDL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2025 00:18:55 UTC
+ Last Updated on 20/09/2025 00:18:30 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
