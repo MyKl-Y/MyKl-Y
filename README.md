@@ -67,7 +67,7 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-554%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-556%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -112,13 +112,15 @@ Sunday                   126 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 10 hrs 19 mins      █████████████████████████   100.00 % 
+Markdown                 10 hrs 50 mins      █████████████████████████   98.11 % 
+Lua                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-Obsidian                 10 hrs 19 mins      █████████████████████████   100.00 % 
+Obsidian                 8 hrs 25 mins       ███████████████████░░░░░░   76.19 % 
+Neovim                   2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
 
 💻 Operating System: 
-Linux                    10 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -134,7 +136,7 @@ VHDL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2025 00:21:34 UTC
+ Last Updated on 02/10/2025 00:18:05 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
