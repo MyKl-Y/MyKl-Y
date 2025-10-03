@@ -67,6 +67,8 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-559%20hrs%209%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.1%20million%20lines%20of%20code-blue)
@@ -83,6 +85,44 @@ const mykl = {
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+🌆 Daytime                210 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+🌃 Evening                459 commits         ███████████░░░░░░░░░░░░░░   43.84 % 
+🌙 Night                  335 commits         ████████░░░░░░░░░░░░░░░░░   32.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Tuesday                  108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Wednesday                168 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Thursday                 195 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Friday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Saturday                 182 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Sunday                   126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+Markdown                 9 hrs 14 mins       ████████████████████████░   97.79 % 
+Lua                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+
+🔥 Editors: 
+Obsidian                 5 hrs 57 mins       ████████████████░░░░░░░░░   63.08 % 
+Neovim                   3 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   36.92 % 
+
+💻 Operating System: 
+Linux                    9 hrs 27 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -96,7 +136,7 @@ VHDL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 00:18:14 UTC
+ Last Updated on 03/10/2025 03:19:09 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
