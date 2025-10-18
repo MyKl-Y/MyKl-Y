@@ -67,7 +67,7 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-566%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -112,17 +112,17 @@ Sunday                   126 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 2 hrs 20 mins       ███████████████░░░░░░░░░░   61.17 % 
-V                        1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   28.58 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Lua                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-zsh                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+V                        3 hrs 26 mins       ██████████████░░░░░░░░░░░   55.48 % 
+Markdown                 1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+SystemVerilog            47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Lua                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 50 mins       █████████████████████████   100.00 % 
+Neovim                   6 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 50 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -138,7 +138,7 @@ VHDL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2025 00:19:42 UTC
+ Last Updated on 18/10/2025 00:17:56 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
