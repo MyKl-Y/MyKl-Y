@@ -67,6 +67,8 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-578%20hrs%2035%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.1%20million%20lines%20of%20code-blue)
@@ -110,17 +112,16 @@ Sunday                   126 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C++                      3 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.28 % 
-V                        1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-Cuda                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-SystemVerilog            35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Assembly                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+C++                      3 hrs 6 mins        █████████████░░░░░░░░░░░░   51.53 % 
+Markdown                 2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.57 % 
+Cuda                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 43 mins       █████████████████████████   100.00 % 
+Neovim                   6 hrs 2 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 43 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -136,7 +137,7 @@ VHDL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2025 00:19:41 UTC
+ Last Updated on 05/11/2025 00:20:28 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
