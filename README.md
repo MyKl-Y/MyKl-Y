@@ -67,8 +67,6 @@ const mykl = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2034%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.1%20million%20lines%20of%20code-blue)
@@ -112,17 +110,14 @@ Sunday                   126 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-V                        1 hr 39 mins        ██████████████░░░░░░░░░░░   55.41 % 
-SystemVerilog            1 hr 1 min          █████████░░░░░░░░░░░░░░░░   34.21 % 
-C++                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Makefile                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+V                        58 mins             █████████████████████████   98.84 % 
+SystemVerilog            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 58 mins       █████████████████████████   100.00 % 
+Neovim                   58 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -138,7 +133,7 @@ VHDL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2025 00:19:48 UTC
+ Last Updated on 16/11/2025 00:22:09 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
