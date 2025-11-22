@@ -75,7 +75,7 @@ const mykl = {
 
 **🐱 My GitHub Data** 
 
-> 📦 552.3 kB Used in GitHub's Storage 
+> 📦 552.2 kB Used in GitHub's Storage 
  > 
 > 🏆 242 Contributions in the Year 2025
  > 
@@ -112,16 +112,16 @@ Sunday                   126 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-V                        58 mins             ████████████░░░░░░░░░░░░░   49.48 % 
-Cuda                     56 mins             ████████████░░░░░░░░░░░░░   47.60 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-SystemVerilog            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Cuda                     56 mins             █████████████░░░░░░░░░░░░   50.28 % 
+V                        51 mins             ████████████░░░░░░░░░░░░░   46.64 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+SystemVerilog            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-Neovim                   1 hr 57 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 51 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 57 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -137,7 +137,7 @@ VHDL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2025 00:19:57 UTC
+ Last Updated on 22/11/2025 00:19:31 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
