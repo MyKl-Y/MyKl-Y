@@ -112,15 +112,13 @@ Sunday                   126 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Cuda                     56 mins             ██████████████████████░░░   86.42 % 
-V                        6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+V                        6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   1 hr 4 mins         █████████████████████████   100.00 % 
+Neovim                   6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 4 mins         █████████████████████████   100.00 % 
+Linux                    6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -136,7 +134,7 @@ VHDL                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2025 00:19:16 UTC
+ Last Updated on 26/11/2025 00:20:05 UTC
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
